@@ -1,0 +1,51 @@
+$primary-color: #5c99db
+$secondary-color: #4369a9
+$button-color: #db9e5c
+$hover-color: #5cd9db
+$error-color: #ac0b62
+
+html
+  display: flex
+  background-color: $primary-color
+
+form
+  display: flex
+  flex-direction: column
+  width: 100vw
+  align-items: center
+
+#login-button
+  border-radius: 10px
+  padding: 10px 20px
+  background-color: $button-color
+  text-transform: uppercase
+  color: white
+  font-weight: bold
+  &:hover
+    color: $button-color
+    background-color: white
+
+label
+  position: relative
+  top: 5px
+  text-transform: uppercase
+  background-color: $primary-color
+  right: 120px
+  display: flex
+  align-items: center
+  font-weight: bold
+  padding: 0px 5px
+  
+input
+  height: 20px
+  width: 400px
+  padding: 10px
+  margin: 10px
+  box-shadow: 0px 0px 6px
+  border: 0 white solid
+  border-radius: 20px
+  text-align: center
+  &:focus
+    border-color: $hover-color
+  &:hover
+    border: $hover-color
