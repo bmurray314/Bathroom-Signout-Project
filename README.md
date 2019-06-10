@@ -4,8 +4,8 @@ This is a project to showcase CRUD functionality and elements of UI/UX and desig
 FILE STRUCTURE
 
 General App Information
-  --> Style Guide for web pages
-  https://docs.google.com/presentation/d/1rynpUgjjog3jJAoga3Uvs_YRDDeaC3VPudScIID5jlY/edit?usp=sharing
+  --> [Style Guide for web pages](https://docs.google.com/presentation/d/1rynpUgjjog3jJAoga3Uvs_YRDDeaC3VPudScIID5jlY/edit?usp=sharing)
+  
 
 Login Page
   --> Link to login page
