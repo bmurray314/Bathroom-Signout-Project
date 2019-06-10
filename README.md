@@ -10,7 +10,7 @@ This is a project to showcase CRUD functionality and elements of UI/UX and desig
 **App Pages**
 - [Login Page](https://github.com/bmurray314/Bathroom-Signout-Project/tree/master/login%20page)
   - [HTML](https://github.com/bmurray314/Bathroom-Signout-Project/blob/master/login%20page/log-in.component.html)
-  - [Sass]()
+  - [Sass](https://github.com/bmurray314/Bathroom-Signout-Project/blob/master/login%20page/log-in.component.sass)
   - TypeScript
 
 **Student Pages**
