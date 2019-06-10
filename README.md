@@ -9,6 +9,9 @@ This is a project to showcase CRUD functionality and elements of UI/UX and desig
 
 **Login Page**
   - Link to login page
+    - [HTML]()
+    - [Sass]()
+    - [TypeScript]()
 
 **Student Pages**
   - Student Home Screen
